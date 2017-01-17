@@ -1,0 +1,17 @@
+AmbigDNA = {
+            "A": "A",
+            "C": "C",
+            "G": "G",
+            "T": "T",
+            "AC": "N",
+            "AG": "R",
+            "AT": "W",
+            "CG": "S",
+            "CT": "Y",
+            "GT": "K",
+            "ACG": "V",
+            "ACT": "H",
+            "AGT": "D",
+            "CGT": "B",
+            "ACGT": "N",
+}
